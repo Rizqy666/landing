@@ -1,0 +1,52 @@
+<div class="container">
+
+    <div class="row no-gutters">
+
+        <div class="col-lg-4 col-md-6 card" data-aos="fade-up" data-aos-delay="100">
+            <span>01</span>
+            <img src="assets/img/20240606_105338.jpg" alt="">
+            <h4>Mobile Operation Production Unit (MOPU)</h4>
+            <p>"PRAMESWARI 8"
+            </p>
+        </div>
+
+        <div class="col-lg-4 col-md-6 card" data-aos="fade-up" data-aos-delay="200">
+            <span>02</span>
+            <img src="assets/img/20240606_105338.jpg" alt="">
+            <h4>Operation and Maintenance Services of Floating Production Unit (FPU)</h4>
+            <p> "Trunojoyo 01"</p>
+
+
+        </div>
+
+        <div class="col-lg-4 col-md-6 card" data-aos="fade-up" data-aos-delay="300">
+            <span>03</span>
+            <img src="assets/img/20240606_105338.jpg" alt="">
+            <h4>Provision of Kakap Operation Facility Maintenance Services</h4>
+            <p> </p>
+        </div>
+
+        {{-- <div class="col-lg-4 col-md-6 card" data-aos="fade-up" data-aos-delay="400">
+            <span>04</span>
+            <h4>Repellendus molestiae</h4>
+            <p>Inventore quo sint a sint rerum. Distinctio blanditiis deserunt quod soluta quod nam mider
+                lando casa</p>
+        </div>
+
+        <div class="col-lg-4 col-md-6 card" data-aos="fade-up" data-aos-delay="400">
+            <span>05</span>
+            <h4>Sapiente Magnam</h4>
+            <p>Vitae dolorem in deleniti ipsum omnis tempore voluptatem. Qui possimus est repellendus est
+                quibusdam</p>
+        </div>
+
+        <div class="col-lg-4 col-md-6 card" data-aos="fade-up" data-aos-delay="600">
+            <span>06</span>
+            <h4>Facilis Impedit</h4>
+            <p>Quis eum numquam veniam ea voluptatibus voluptas. Excepturi aut nostrum repudiandae
+                voluptatibus corporis sequi</p>
+        </div> --}}
+
+    </div>
+
+</div>
